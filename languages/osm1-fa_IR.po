@@ -1,0 +1,16 @@
+# Translation file for OSM1 Plugin
+# Copyright (C) 2024
+msgid ""
+msgstr ""
+"Project-Id-Version: OSM1 1.0.0\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "سیستم حمل و نقل"
+msgstr "سیستم حمل و نقل"
+
+msgid "حمل و نقل"
+msgstr "حمل و نقل"
+
